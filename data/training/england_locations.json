@@ -1,0 +1,109 @@
+{
+  "valid_locations": [
+    {
+      "name": "Cumbria",
+      "aliases": ["Lake District", "Lakes", "Cumbrian Lakes"],
+      "type": "natural_area",
+      "coordinates": {"lat": 54.4609, "lon": -3.0886},
+      "keywords": ["lakes", "hiking", "wordsworth", "beatrix potter", "fell", "windermere"]
+    },
+    {
+      "name": "Corfe Castle",
+      "aliases": ["Corfe", "Dorset Castle"],
+      "type": "historic_site", 
+      "coordinates": {"lat": 50.6395, "lon": -2.0566},
+      "keywords": ["castle", "ruins", "dorset", "medieval", "swanage", "railway"]
+    },
+    {
+      "name": "The Cotswolds",
+      "aliases": ["Cotswolds", "Cotswold"],
+      "type": "natural_area",
+      "coordinates": {"lat": 51.8330, "lon": -1.8433},
+      "keywords": ["villages", "countryside", "honey stone", "bourton", "chipping campden", "stow"]
+    },
+    {
+      "name": "Cambridge",
+      "aliases": ["Cambridge University"],
+      "type": "university_town",
+      "coordinates": {"lat": 52.2053, "lon": 0.1218},
+      "keywords": ["university", "colleges", "punting", "kings college", "river cam", "academic"]
+    },
+    {
+      "name": "Bristol",
+      "aliases": ["Bristol City"],
+      "type": "metropolitan",
+      "coordinates": {"lat": 51.4545, "lon": -2.5879},
+      "keywords": ["harbor", "clifton", "bridge", "maritime", "banksy", "street art"]
+    },
+    {
+      "name": "Oxford",
+      "aliases": ["Oxford University"],
+      "type": "university_town",
+      "coordinates": {"lat": 51.7520, "lon": -1.2577},
+      "keywords": ["university", "spires", "colleges", "bodleian", "christ church", "academic"]
+    },
+    {
+      "name": "Norwich",
+      "aliases": ["Norwich City"],
+      "type": "city",
+      "coordinates": {"lat": 52.6309, "lon": 1.2974},
+      "keywords": ["cathedral", "medieval", "norfolk", "castle", "elm hill", "market"]
+    },
+    {
+      "name": "Stonehenge",
+      "aliases": ["Stone Henge", "Salisbury Plain"],
+      "type": "historic_site",
+      "coordinates": {"lat": 51.1789, "lon": -1.8262},
+      "keywords": ["prehistoric", "stones", "monument", "ancient", "unesco", "salisbury"]
+    },
+    {
+      "name": "Watergate Bay",
+      "aliases": ["Watergate", "Cornwall Coast"],
+      "type": "coastal",
+      "coordinates": {"lat": 50.4429, "lon": -5.0553},
+      "keywords": ["beach", "surfing", "cornwall", "coastal", "water sports", "newquay"]
+    },
+    {
+      "name": "Birmingham",
+      "aliases": ["Birmingham City", "Brum"],
+      "type": "metropolitan", 
+      "coordinates": {"lat": 52.4862, "lon": -1.8904},
+      "keywords": ["industrial", "jewellery quarter", "canals", "museum", "curry", "diverse"]
+    }
+  ],
+  "location_mapping": {
+    "lake district": "Cumbria",
+    "lakes": "Cumbria", 
+    "cumbrian lakes": "Cumbria",
+    "windermere": "Cumbria",
+    "keswick": "Cumbria",
+    "corfe": "Corfe Castle",
+    "dorset castle": "Corfe Castle",
+    "cotswolds": "The Cotswolds",
+    "cotswold": "The Cotswolds",
+    "bourton on the water": "The Cotswolds",
+    "chipping campden": "The Cotswolds",
+    "cambridge university": "Cambridge",
+    "kings college": "Cambridge",
+    "bristol city": "Bristol",
+    "clifton": "Bristol",
+    "oxford university": "Oxford",
+    "dreaming spires": "Oxford",
+    "norwich city": "Norwich",
+    "stone henge": "Stonehenge",
+    "salisbury plain": "Stonehenge",
+    "watergate": "Watergate Bay",
+    "cornwall coast": "Watergate Bay",
+    "birmingham city": "Birmingham",
+    "brum": "Birmingham"
+  },
+  "weather_keywords": [
+    "weather", "forecast", "temperature", "rain", "sunny", "cloudy", "wind", "cold", "warm", "hot"
+  ],
+  "activity_keywords": [
+    "activities", "things to do", "attractions", "visit", "see", "explore", "tourist", "sightseeing"
+  ],
+  "news_keywords": [
+    "news", "events", "happening", "latest", "updates", "information"
+  ]
+}
