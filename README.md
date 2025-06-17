@@ -223,7 +223,7 @@ Multi-tier caching strategy to minimize API costs:
 - Graceful fallback to ChatterBot for unclassified intents
 - Smart follow-up suggestions based on conversation flow
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
